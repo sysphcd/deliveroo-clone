@@ -1,6 +1,7 @@
 # deliveroo-clone
 deliveroo react native app clone
 
+![image](https://github.com/sysphcd/deliveroo-clone/blob/main/deliveroo-clone-app-image.jpg)
 
 # Deliveroo Clone with REACT NATIVE!
 
